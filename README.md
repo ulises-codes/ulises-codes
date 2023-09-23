@@ -1,6 +1,6 @@
 ### Greetings Visitor 👽
 
-I'm a web developer. I code in JavaScript/Typescript, React, and Python, to name a few.
+I'm a web developer. I code in Rust, JavaScript/Typescript, React, and Python, to name a few.
 
 - I'm always working on something fun and interesting
 - I'm currently learning AWS
