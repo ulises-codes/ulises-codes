@@ -1,9 +1,9 @@
 ### Greetings Visitor 👽
 
-I'm a web developer. I code in Rust, JavaScript/Typescript, React, and Python, to name a few.
+I'm a web developer. I code in Rust, JavaScript/Typescript, and React, to name a few.
 
 - I'm always working on something fun and interesting
-- I'm currently learning AWS
+- I'm a second-career developer. If I can learn to code, so can you (assuming you don't know how)
 - One of these days I want to make something with Rust and WebAssembly 
 
 ***
